@@ -1,4 +1,4 @@
-# Hello World
+# Hello World 👋
 My name is Noah, but you can call me BC. I'm a 15-year-old aspiring software engineer with a passion for programming. My dream is to become a skilled software engineer.
 
 ## Stats
