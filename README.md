@@ -1,5 +1,5 @@
 # Hello World 👋
-My name is Noah, but you can call me BC. I'm a 15-year-old aspiring software engineer with a passion for programming. My dream is to become a skilled software engineer.
+Call me BC. I'm a 16-year-old Jr. software engineer with a passion for web development.
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
